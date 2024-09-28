@@ -8,15 +8,21 @@ css
 
 javascript 
 
+typescript
+
 vuejs 
 
-nodejs 
-
-express 
+nuxtjs
 
 vuetify  
 
 taliwind  
+
+bootstrap5
+
+nodejs 
+
+express 
 
 git&github  
 
